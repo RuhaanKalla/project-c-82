@@ -1,0 +1,27 @@
+input{
+    margin-right:20px;
+  }
+  button{
+    width:150px;
+    height:40px;
+    background-color:#00796B;
+    font-size:22px;
+    color:white;
+    
+  }
+  body{
+    text-align:center;
+    background-image:url(bg1.jpg);
+    background-position:center;
+    background-size:cover;
+  }
+  #mycanvas{
+  border:ridge;
+    border-width:10px;
+    background-color:white;
+  }
+  h1{
+    color:red;
+    font-size:35px;
+  }
+  
